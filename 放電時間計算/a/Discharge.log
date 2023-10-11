@@ -1,0 +1,22 @@
+Circuit: * C:\Users\exp32\AppData\Local\LTspice\Discharge.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Oct 12 02:03:13 2023
+Total elapsed time: 0.337 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2085
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 5
+fillins = 0
+solver = Normal
+Avg thread counts: 7.7/14.1/14.1/7.7
+Matrix Compiler1: 168 bytes object code size  0.6/0.4/[0.3]
+Matrix Compiler2: 321 bytes object code size  0.3/0.4/[0.2]
+
