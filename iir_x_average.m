@@ -2,11 +2,11 @@ for i = 0:10:128
   %coefficient
   n = i;
   k = 256;
-  a = [(n-k) k];
-  b = [0 n];
+  a = [0 0 4*(n-k) 4*k];
+  b = [n n n n];
 
   %nyquest frequency
-  ts = 6*10^(-3);
+  ts = 5.01*10^(-3);
   fn = 1/ts;
 
   %plot frequency
